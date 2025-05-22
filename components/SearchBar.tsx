@@ -4,7 +4,7 @@ import { Search } from "lucide-react";
 
 const SearchBar = () => {
   return (
-    <div className="flex gap-4 py-2 px-6 bg-gray-300 rounded-3xl max-w-xl mx-auto w-full max-lg:hidden">
+    <div className="flex gap-4 py-2 px-6 bg-gray-200 rounded-3xl max-w-xl mx-auto w-full max-lg:hidden">
       <input
         type="text"
         placeholder="Search Products"
